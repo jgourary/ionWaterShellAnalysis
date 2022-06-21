@@ -1,0 +1,1410 @@
+Frame number 2:
+Current Atoms:
+26, 380, 560, 581, 638, 2402, 2420, 2447, 
+Atoms Entering
+26, 380, 560, 581, 638, 2402, 2420, 2447, 
+Frame number 12:
+Current Atoms:
+26, 560, 581, 638, 2420, 2660, 
+Atoms Leaving
+380, 2402, 2447, 
+Atoms Entering
+2660, 
+Frame number 13:
+Current Atoms:
+26, 380, 560, 581, 638, 2420, 2447, 2660, 
+Atoms Entering
+380, 2447, 
+Frame number 14:
+Current Atoms:
+26, 380, 560, 581, 638, 2402, 2420, 2447, 2660, 
+Atoms Entering
+2402, 
+Frame number 15:
+Current Atoms:
+26, 380, 560, 581, 638, 2420, 2447, 2660, 
+Atoms Leaving
+2402, 
+Frame number 16:
+Current Atoms:
+26, 380, 560, 581, 638, 2402, 2420, 2447, 2660, 
+Atoms Entering
+2402, 
+Frame number 17:
+Current Atoms:
+26, 380, 560, 581, 638, 2420, 2447, 2660, 
+Atoms Leaving
+2402, 
+Frame number 19:
+Current Atoms:
+26, 380, 560, 581, 638, 2402, 2420, 2447, 2660, 
+Atoms Entering
+2402, 
+Frame number 20:
+Current Atoms:
+26, 380, 581, 638, 2420, 2447, 2660, 
+Atoms Leaving
+560, 2402, 
+Frame number 21:
+Current Atoms:
+26, 380, 581, 638, 2402, 2420, 2447, 2660, 
+Atoms Entering
+2402, 
+Frame number 23:
+Current Atoms:
+26, 380, 581, 638, 2420, 2447, 2660, 
+Atoms Leaving
+2402, 
+Frame number 26:
+Current Atoms:
+26, 380, 581, 638, 2402, 2420, 2447, 2660, 
+Atoms Entering
+2402, 
+Frame number 27:
+Current Atoms:
+26, 380, 581, 638, 2420, 2447, 2660, 
+Atoms Leaving
+2402, 
+Frame number 33:
+Current Atoms:
+26, 38, 380, 581, 638, 2402, 2420, 2447, 2660, 
+Atoms Entering
+38, 2402, 
+Frame number 34:
+Current Atoms:
+26, 380, 581, 638, 2402, 2420, 2447, 2660, 
+Atoms Leaving
+38, 
+Frame number 36:
+Current Atoms:
+26, 371, 380, 581, 638, 2420, 2447, 2660, 
+Atoms Leaving
+2402, 
+Atoms Entering
+371, 
+Frame number 39:
+Current Atoms:
+371, 380, 581, 638, 2420, 2447, 2660, 
+Atoms Leaving
+26, 
+Frame number 40:
+Current Atoms:
+26, 371, 380, 581, 638, 2420, 2660, 
+Atoms Leaving
+2447, 
+Atoms Entering
+26, 
+Frame number 41:
+Current Atoms:
+26, 371, 380, 581, 2420, 2660, 
+Atoms Leaving
+638, 
+Frame number 42:
+Current Atoms:
+26, 371, 380, 581, 2420, 2447, 2660, 
+Atoms Entering
+2447, 
+Frame number 44:
+Current Atoms:
+26, 371, 380, 452, 581, 2420, 2447, 2660, 
+Atoms Entering
+452, 
+Frame number 45:
+Current Atoms:
+380, 452, 581, 2420, 2447, 2660, 
+Atoms Leaving
+26, 371, 
+Frame number 46:
+Current Atoms:
+380, 452, 2420, 2447, 2660, 
+Atoms Leaving
+581, 
+Frame number 47:
+Current Atoms:
+380, 452, 2447, 2660, 
+Atoms Leaving
+2420, 
+Frame number 48:
+Current Atoms:
+26, 371, 581, 2420, 
+Atoms Leaving
+380, 452, 2447, 2660, 
+Atoms Entering
+26, 371, 581, 2420, 
+Frame number 49:
+Current Atoms:
+26, 380, 452, 2447, 2660, 
+Atoms Leaving
+371, 581, 2420, 
+Atoms Entering
+380, 452, 2447, 2660, 
+Frame number 50:
+Current Atoms:
+26, 371, 581, 1295, 2420, 
+Atoms Leaving
+380, 452, 2447, 2660, 
+Atoms Entering
+371, 581, 1295, 2420, 
+Frame number 51:
+Current Atoms:
+26, 371, 581, 1295, 2420, 2660, 
+Atoms Entering
+2660, 
+Frame number 52:
+Current Atoms:
+26, 371, 581, 917, 1295, 2420, 
+Atoms Leaving
+2660, 
+Atoms Entering
+917, 
+Frame number 53:
+Current Atoms:
+26, 371, 581, 1295, 2420, 2660, 
+Atoms Leaving
+917, 
+Atoms Entering
+2660, 
+Frame number 54:
+Current Atoms:
+26, 371, 581, 1295, 2420, 
+Atoms Leaving
+2660, 
+Frame number 56:
+Current Atoms:
+371, 581, 1295, 2420, 
+Atoms Leaving
+26, 
+Frame number 59:
+Current Atoms:
+26, 371, 380, 581, 1295, 2420, 
+Atoms Entering
+26, 380, 
+Frame number 60:
+Current Atoms:
+26, 371, 581, 1295, 2420, 2660, 
+Atoms Leaving
+380, 
+Atoms Entering
+2660, 
+Frame number 61:
+Current Atoms:
+371, 380, 581, 1295, 2420, 2660, 
+Atoms Leaving
+26, 
+Atoms Entering
+380, 
+Frame number 62:
+Current Atoms:
+26, 371, 380, 581, 1295, 2420, 
+Atoms Leaving
+2660, 
+Atoms Entering
+26, 
+Frame number 63:
+Current Atoms:
+371, 380, 581, 929, 1295, 2420, 
+Atoms Leaving
+26, 
+Atoms Entering
+929, 
+Frame number 68:
+Current Atoms:
+371, 581, 929, 1295, 2420, 
+Atoms Leaving
+380, 
+Frame number 69:
+Current Atoms:
+26, 380, 929, 2447, 2660, 
+Atoms Leaving
+371, 581, 1295, 2420, 
+Atoms Entering
+26, 380, 2447, 2660, 
+Frame number 70:
+Current Atoms:
+26, 380, 929, 2420, 2447, 2660, 
+Atoms Entering
+2420, 
+Frame number 72:
+Current Atoms:
+26, 380, 929, 2447, 2660, 
+Atoms Leaving
+2420, 
+Frame number 73:
+Current Atoms:
+26, 380, 929, 2447, 
+Atoms Leaving
+2660, 
+Frame number 74:
+Current Atoms:
+26, 371, 380, 929, 2447, 2660, 
+Atoms Entering
+371, 2660, 
+Frame number 75:
+Current Atoms:
+26, 380, 929, 1295, 2447, 
+Atoms Leaving
+371, 2660, 
+Atoms Entering
+1295, 
+Frame number 76:
+Current Atoms:
+26, 380, 929, 2447, 2660, 
+Atoms Leaving
+1295, 
+Atoms Entering
+2660, 
+Frame number 77:
+Current Atoms:
+26, 371, 380, 929, 1295, 2420, 2447, 2660, 
+Atoms Entering
+371, 1295, 2420, 
+Frame number 78:
+Current Atoms:
+26, 380, 929, 1295, 2447, 
+Atoms Leaving
+371, 2420, 2660, 
+Frame number 79:
+Current Atoms:
+26, 371, 380, 929, 1295, 2420, 2447, 2660, 
+Atoms Entering
+371, 2420, 2660, 
+Frame number 80:
+Current Atoms:
+26, 380, 2447, 2660, 
+Atoms Leaving
+371, 929, 1295, 2420, 
+Frame number 81:
+Current Atoms:
+26, 380, 929, 2447, 2660, 
+Atoms Entering
+929, 
+Frame number 82:
+Current Atoms:
+26, 380, 2447, 2660, 
+Atoms Leaving
+929, 
+Frame number 83:
+Current Atoms:
+371, 929, 1295, 2420, 2465, 
+Atoms Leaving
+26, 380, 2447, 2660, 
+Atoms Entering
+371, 929, 1295, 2420, 2465, 
+Frame number 85:
+Current Atoms:
+26, 371, 929, 1295, 2420, 2465, 
+Atoms Entering
+26, 
+Frame number 87:
+Current Atoms:
+371, 929, 1295, 2420, 2465, 
+Atoms Leaving
+26, 
+Frame number 88:
+Current Atoms:
+371, 929, 1295, 2420, 2447, 2465, 
+Atoms Entering
+2447, 
+Frame number 89:
+Current Atoms:
+371, 929, 1295, 2420, 2447, 2465, 2660, 
+Atoms Entering
+2660, 
+Frame number 90:
+Current Atoms:
+371, 929, 1295, 2420, 2465, 
+Atoms Leaving
+2447, 2660, 
+Frame number 91:
+Current Atoms:
+371, 929, 1295, 2420, 2465, 2660, 
+Atoms Entering
+2660, 
+Frame number 92:
+Current Atoms:
+371, 929, 2420, 2465, 2660, 
+Atoms Leaving
+1295, 
+Frame number 94:
+Current Atoms:
+371, 2420, 2465, 2660, 
+Atoms Leaving
+929, 
+Frame number 96:
+Current Atoms:
+371, 929, 1295, 2330, 2420, 2465, 2660, 
+Atoms Entering
+929, 1295, 2330, 
+Frame number 97:
+Current Atoms:
+371, 1295, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+929, 
+Frame number 98:
+Current Atoms:
+371, 1295, 2330, 2420, 2447, 2465, 2660, 
+Atoms Entering
+2447, 
+Frame number 100:
+Current Atoms:
+371, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+1295, 2447, 
+Frame number 101:
+Current Atoms:
+380, 929, 1295, 2447, 2660, 
+Atoms Leaving
+371, 2330, 2420, 2465, 
+Atoms Entering
+380, 929, 1295, 2447, 
+Frame number 102:
+Current Atoms:
+380, 929, 1295, 2330, 2447, 2660, 
+Atoms Entering
+2330, 
+Frame number 106:
+Current Atoms:
+371, 380, 929, 1295, 2330, 2420, 2447, 2660, 
+Atoms Entering
+371, 2420, 
+Frame number 109:
+Current Atoms:
+371, 380, 929, 1295, 2330, 2420, 2660, 
+Atoms Leaving
+2447, 
+Frame number 113:
+Current Atoms:
+371, 380, 929, 1295, 2330, 2660, 
+Atoms Leaving
+2420, 
+Frame number 114:
+Current Atoms:
+371, 380, 929, 1295, 2330, 2420, 2660, 
+Atoms Entering
+2420, 
+Frame number 115:
+Current Atoms:
+371, 380, 929, 1295, 2420, 2660, 
+Atoms Leaving
+2330, 
+Frame number 116:
+Current Atoms:
+371, 380, 929, 1295, 2330, 2420, 2660, 
+Atoms Entering
+2330, 
+Frame number 117:
+Current Atoms:
+2330, 2420, 2465, 2660, 
+Atoms Leaving
+371, 380, 929, 1295, 
+Atoms Entering
+2465, 
+Frame number 118:
+Current Atoms:
+371, 2330, 2420, 2465, 2660, 
+Atoms Entering
+371, 
+Frame number 119:
+Current Atoms:
+371, 380, 929, 1295, 
+Atoms Leaving
+2330, 2420, 2465, 2660, 
+Atoms Entering
+380, 929, 1295, 
+Frame number 120:
+Current Atoms:
+2330, 2420, 2465, 2660, 
+Atoms Leaving
+371, 380, 929, 1295, 
+Atoms Entering
+2330, 2420, 2465, 2660, 
+Frame number 121:
+Current Atoms:
+371, 929, 2330, 2420, 2465, 2660, 
+Atoms Entering
+371, 929, 
+Frame number 123:
+Current Atoms:
+929, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+371, 
+Frame number 125:
+Current Atoms:
+371, 380, 1295, 
+Atoms Leaving
+929, 2330, 2420, 2465, 2660, 
+Atoms Entering
+371, 380, 1295, 
+Frame number 126:
+Current Atoms:
+929, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+371, 380, 1295, 
+Atoms Entering
+929, 2330, 2420, 2465, 2660, 
+Frame number 128:
+Current Atoms:
+371, 929, 2330, 2420, 2465, 2660, 
+Atoms Entering
+371, 
+Frame number 129:
+Current Atoms:
+371, 929, 1295, 2294, 2330, 2420, 2465, 2660, 
+Atoms Entering
+1295, 2294, 
+Frame number 131:
+Current Atoms:
+929, 1295, 2294, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+371, 
+Frame number 132:
+Current Atoms:
+371, 929, 1295, 2294, 2330, 2420, 2465, 2660, 
+Atoms Entering
+371, 
+Frame number 133:
+Current Atoms:
+371, 380, 929, 1295, 2294, 2330, 2420, 2465, 2660, 
+Atoms Entering
+380, 
+Frame number 140:
+Current Atoms:
+371, 380, 929, 2294, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+1295, 
+Frame number 141:
+Current Atoms:
+371, 380, 929, 1295, 2294, 2330, 2420, 2465, 2660, 
+Atoms Entering
+1295, 
+Frame number 151:
+Current Atoms:
+371, 380, 929, 1295, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+2294, 
+Frame number 153:
+Current Atoms:
+371, 380, 929, 1295, 1700, 2330, 2420, 2465, 2660, 
+Atoms Entering
+1700, 
+Frame number 154:
+Current Atoms:
+371, 380, 929, 1700, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+1295, 
+Frame number 161:
+Current Atoms:
+371, 380, 929, 1700, 2330, 2348, 2420, 2465, 2660, 
+Atoms Entering
+2348, 
+Frame number 173:
+Current Atoms:
+371, 380, 929, 1700, 2330, 2420, 2465, 2660, 
+Atoms Leaving
+2348, 
+Frame number 178:
+Current Atoms:
+242, 371, 380, 929, 1700, 2330, 2420, 2465, 2660, 
+Atoms Entering
+242, 
+Frame number 185:
+Current Atoms:
+242, 371, 380, 929, 1700, 2420, 2465, 2660, 
+Atoms Leaving
+2330, 
+Frame number 187:
+Current Atoms:
+242, 371, 929, 1700, 2420, 2465, 2660, 
+Atoms Leaving
+380, 
+Frame number 188:
+Current Atoms:
+242, 371, 380, 929, 1700, 2420, 2465, 2660, 
+Atoms Entering
+380, 
+Frame number 189:
+Current Atoms:
+242, 371, 380, 929, 1205, 1700, 2420, 2465, 2660, 
+Atoms Entering
+1205, 
+Frame number 196:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2420, 2465, 2660, 
+Atoms Leaving
+929, 
+Frame number 197:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2186, 2420, 2465, 2660, 
+Atoms Entering
+2186, 
+Frame number 203:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2420, 2465, 2660, 
+Atoms Leaving
+2186, 
+Frame number 215:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2240, 2420, 2465, 2660, 
+Atoms Entering
+2240, 
+Frame number 218:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2240, 2465, 2660, 
+Atoms Leaving
+2420, 
+Frame number 219:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2240, 2420, 2465, 2660, 
+Atoms Entering
+2420, 
+Frame number 225:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2240, 2465, 2660, 
+Atoms Leaving
+2420, 
+Frame number 236:
+Current Atoms:
+371, 380, 1205, 1700, 2240, 2465, 2660, 
+Atoms Leaving
+242, 
+Frame number 237:
+Current Atoms:
+242, 371, 380, 1205, 1700, 2240, 2465, 2660, 
+Atoms Entering
+242, 
+Frame number 238:
+Current Atoms:
+242, 371, 380, 1205, 1694, 1700, 2240, 2465, 2660, 
+Atoms Entering
+1694, 
+Frame number 239:
+Current Atoms:
+371, 380, 1205, 1694, 1700, 2240, 2465, 2660, 
+Atoms Leaving
+242, 
+Frame number 249:
+Current Atoms:
+371, 380, 1205, 1694, 1700, 1718, 2240, 2465, 2660, 
+Atoms Entering
+1718, 
+Frame number 256:
+Current Atoms:
+371, 380, 1205, 1694, 1718, 2240, 2465, 2660, 
+Atoms Leaving
+1700, 
+Frame number 263:
+Current Atoms:
+371, 380, 1205, 1694, 1718, 1721, 2240, 2465, 2660, 
+Atoms Entering
+1721, 
+Frame number 267:
+Current Atoms:
+371, 380, 1205, 1694, 1718, 2240, 2465, 2660, 
+Atoms Leaving
+1721, 
+Frame number 268:
+Current Atoms:
+371, 380, 1205, 1694, 1718, 1721, 2240, 2465, 2660, 
+Atoms Entering
+1721, 
+Frame number 273:
+Current Atoms:
+371, 1205, 1517, 1694, 1718, 1721, 2240, 2465, 2660, 
+Atoms Leaving
+380, 
+Atoms Entering
+1517, 
+Frame number 275:
+Current Atoms:
+371, 1205, 1694, 1718, 1721, 2240, 2465, 2660, 
+Atoms Leaving
+1517, 
+Frame number 279:
+Current Atoms:
+371, 1205, 1694, 1718, 1721, 2156, 2240, 2465, 2660, 
+Atoms Entering
+2156, 
+Frame number 291:
+Current Atoms:
+371, 1205, 1694, 1721, 2156, 2240, 2465, 2660, 
+Atoms Leaving
+1718, 
+Frame number 293:
+Current Atoms:
+371, 1205, 1694, 1721, 2156, 2240, 2465, 2489, 2660, 
+Atoms Entering
+2489, 
+Frame number 299:
+Current Atoms:
+371, 1205, 1694, 1721, 2156, 2240, 2465, 2660, 
+Atoms Leaving
+2489, 
+Frame number 300:
+Current Atoms:
+371, 1205, 1445, 1694, 1721, 2156, 2240, 2465, 2660, 
+Atoms Entering
+1445, 
+Frame number 301:
+Current Atoms:
+371, 1205, 1694, 1721, 2156, 2240, 2465, 2660, 
+Atoms Leaving
+1445, 
+Frame number 303:
+Current Atoms:
+371, 1205, 1694, 1721, 2156, 2174, 2240, 2465, 2660, 
+Atoms Entering
+2174, 
+Frame number 304:
+Current Atoms:
+371, 1205, 1694, 1721, 2156, 2240, 2465, 2660, 
+Atoms Leaving
+2174, 
+Frame number 307:
+Current Atoms:
+371, 1205, 1625, 1694, 1721, 2156, 2240, 2465, 2660, 
+Atoms Entering
+1625, 
+Frame number 346:
+Current Atoms:
+371, 1205, 1625, 1694, 2156, 2240, 2465, 2660, 
+Atoms Leaving
+1721, 
+Frame number 347:
+Current Atoms:
+161, 371, 1205, 1625, 1694, 2156, 2240, 2465, 2660, 
+Atoms Entering
+161, 
+Frame number 349:
+Current Atoms:
+161, 371, 1205, 1625, 1694, 2156, 2240, 2465, 
+Atoms Leaving
+2660, 
+Frame number 363:
+Current Atoms:
+161, 194, 371, 1205, 1625, 1694, 2156, 2240, 2465, 
+Atoms Entering
+194, 
+Frame number 366:
+Current Atoms:
+161, 194, 1205, 1625, 1694, 2156, 2240, 2465, 
+Atoms Leaving
+371, 
+Frame number 388:
+Current Atoms:
+161, 194, 1001, 1205, 1625, 1694, 2156, 2240, 2465, 
+Atoms Entering
+1001, 
+Frame number 397:
+Current Atoms:
+161, 194, 1001, 1205, 1625, 2156, 2240, 2465, 
+Atoms Leaving
+1694, 
+Frame number 408:
+Current Atoms:
+161, 194, 1001, 1205, 1229, 1625, 2156, 2240, 2465, 
+Atoms Entering
+1229, 
+Frame number 412:
+Current Atoms:
+194, 1001, 1205, 1229, 1625, 2156, 2240, 2465, 
+Atoms Leaving
+161, 
+Frame number 421:
+Current Atoms:
+194, 1001, 1205, 1229, 1595, 1625, 2156, 2240, 2465, 
+Atoms Entering
+1595, 
+Frame number 424:
+Current Atoms:
+194, 1001, 1205, 1595, 1625, 2156, 2240, 2465, 
+Atoms Leaving
+1229, 
+Frame number 427:
+Current Atoms:
+161, 194, 1001, 1205, 1595, 1625, 2156, 2240, 2465, 
+Atoms Entering
+161, 
+Frame number 428:
+Current Atoms:
+194, 1001, 1205, 1595, 1625, 2156, 2240, 2465, 
+Atoms Leaving
+161, 
+Frame number 443:
+Current Atoms:
+194, 494, 1001, 1205, 1595, 1625, 2156, 2240, 2465, 
+Atoms Entering
+494, 
+Frame number 466:
+Current Atoms:
+194, 494, 1001, 1205, 1595, 2156, 2240, 2465, 
+Atoms Leaving
+1625, 
+Frame number 471:
+Current Atoms:
+194, 494, 1001, 1205, 1595, 1625, 2156, 2240, 2465, 
+Atoms Entering
+1625, 
+Frame number 472:
+Current Atoms:
+194, 494, 1001, 1595, 1625, 2156, 2240, 2465, 
+Atoms Leaving
+1205, 
+Frame number 477:
+Current Atoms:
+194, 494, 1001, 1007, 1595, 1625, 2156, 2240, 2465, 
+Atoms Entering
+1007, 
+Frame number 481:
+Current Atoms:
+194, 494, 1001, 1007, 1625, 2156, 2240, 2465, 
+Atoms Leaving
+1595, 
+Frame number 485:
+Current Atoms:
+194, 479, 494, 1001, 1007, 1625, 2156, 2240, 2465, 
+Atoms Entering
+479, 
+Frame number 499:
+Current Atoms:
+194, 479, 494, 1001, 1007, 2156, 2240, 2465, 
+Atoms Leaving
+1625, 
+Frame number 501:
+Current Atoms:
+194, 479, 494, 605, 1001, 1007, 2156, 2240, 2465, 
+Atoms Entering
+605, 
+Frame number 507:
+Current Atoms:
+194, 479, 494, 1001, 1007, 2156, 2240, 2465, 
+Atoms Leaving
+605, 
+Frame number 510:
+Current Atoms:
+194, 479, 494, 800, 1001, 1007, 2156, 2240, 2465, 
+Atoms Entering
+800, 
+Frame number 518:
+Current Atoms:
+194, 494, 800, 1001, 1007, 2156, 2240, 2465, 
+Atoms Leaving
+479, 
+Frame number 527:
+Current Atoms:
+194, 494, 800, 1001, 1007, 1571, 2156, 2240, 2465, 
+Atoms Entering
+1571, 
+Frame number 541:
+Current Atoms:
+194, 494, 800, 1001, 1007, 2156, 2240, 2465, 
+Atoms Leaving
+1571, 
+Frame number 558:
+Current Atoms:
+194, 494, 800, 1001, 1007, 2156, 2240, 2318, 2465, 
+Atoms Entering
+2318, 
+Frame number 562:
+Current Atoms:
+194, 494, 800, 1001, 1007, 2156, 2240, 2465, 
+Atoms Leaving
+2318, 
+Frame number 575:
+Current Atoms:
+194, 494, 800, 1001, 1007, 2156, 2240, 2465, 2537, 
+Atoms Entering
+2537, 
+Frame number 591:
+Current Atoms:
+194, 494, 800, 1007, 2156, 2240, 2465, 2537, 
+Atoms Leaving
+1001, 
+Frame number 603:
+Current Atoms:
+194, 494, 743, 800, 1007, 2156, 2240, 2465, 2537, 
+Atoms Entering
+743, 
+Frame number 609:
+Current Atoms:
+194, 494, 743, 800, 1007, 2240, 2465, 2537, 
+Atoms Leaving
+2156, 
+Frame number 611:
+Current Atoms:
+194, 494, 743, 800, 1007, 1760, 2240, 2465, 2537, 
+Atoms Entering
+1760, 
+Frame number 617:
+Current Atoms:
+494, 743, 800, 1007, 1760, 2240, 2465, 2537, 
+Atoms Leaving
+194, 
+Frame number 618:
+Current Atoms:
+494, 743, 800, 1007, 1118, 1760, 2240, 2465, 2537, 
+Atoms Entering
+1118, 
+Frame number 620:
+Current Atoms:
+494, 743, 800, 1007, 1118, 1760, 2465, 2537, 
+Atoms Leaving
+2240, 
+Frame number 622:
+Current Atoms:
+494, 743, 800, 1007, 1118, 1745, 1760, 2465, 2537, 
+Atoms Entering
+1745, 
+Frame number 639:
+Current Atoms:
+494, 743, 800, 1118, 1745, 1760, 2465, 2537, 
+Atoms Leaving
+1007, 
+Frame number 640:
+Current Atoms:
+494, 743, 800, 1007, 1118, 1745, 1760, 2465, 2537, 
+Atoms Entering
+1007, 
+Frame number 646:
+Current Atoms:
+743, 800, 1007, 1118, 1745, 1760, 2465, 2537, 
+Atoms Leaving
+494, 
+Frame number 647:
+Current Atoms:
+743, 800, 1007, 1118, 1544, 1745, 1760, 2465, 2537, 
+Atoms Entering
+1544, 
+Frame number 666:
+Current Atoms:
+743, 800, 1007, 1118, 1544, 1745, 1760, 2537, 
+Atoms Leaving
+2465, 
+Frame number 669:
+Current Atoms:
+743, 800, 1007, 1118, 1544, 1745, 1760, 2465, 2537, 
+Atoms Entering
+2465, 
+Frame number 671:
+Current Atoms:
+743, 800, 1007, 1118, 1544, 1760, 2465, 2537, 
+Atoms Leaving
+1745, 
+Frame number 681:
+Current Atoms:
+656, 743, 800, 1007, 1118, 1544, 1760, 2465, 2537, 
+Atoms Entering
+656, 
+Frame number 682:
+Current Atoms:
+743, 800, 1007, 1118, 1544, 1760, 2465, 2537, 
+Atoms Leaving
+656, 
+Frame number 701:
+Current Atoms:
+743, 800, 1007, 1118, 1544, 1760, 1958, 2465, 2537, 
+Atoms Entering
+1958, 
+Frame number 704:
+Current Atoms:
+800, 1007, 1118, 1544, 1760, 1958, 2465, 2537, 
+Atoms Leaving
+743, 
+Frame number 708:
+Current Atoms:
+800, 1007, 1118, 1418, 1544, 1760, 1958, 2465, 2537, 
+Atoms Entering
+1418, 
+Frame number 717:
+Current Atoms:
+800, 1007, 1418, 1544, 1760, 1958, 2465, 2537, 
+Atoms Leaving
+1118, 
+Frame number 721:
+Current Atoms:
+368, 800, 1007, 1418, 1544, 1760, 1958, 2465, 2537, 
+Atoms Entering
+368, 
+Frame number 722:
+Current Atoms:
+800, 1007, 1418, 1544, 1760, 1958, 2465, 2537, 
+Atoms Leaving
+368, 
+Frame number 723:
+Current Atoms:
+44, 800, 1007, 1418, 1544, 1760, 1958, 2465, 2537, 
+Atoms Entering
+44, 
+Frame number 725:
+Current Atoms:
+800, 1007, 1418, 1544, 1760, 1958, 2465, 2537, 
+Atoms Leaving
+44, 
+Frame number 726:
+Current Atoms:
+800, 1007, 1418, 1544, 1760, 1958, 2045, 2465, 2537, 
+Atoms Entering
+2045, 
+Frame number 741:
+Current Atoms:
+800, 1007, 1418, 1544, 1760, 2045, 2465, 2537, 
+Atoms Leaving
+1958, 
+Frame number 764:
+Current Atoms:
+557, 800, 1007, 1418, 1544, 1760, 2045, 2465, 2537, 
+Atoms Entering
+557, 
+Frame number 771:
+Current Atoms:
+557, 1007, 1418, 1544, 1760, 2045, 2465, 2537, 
+Atoms Leaving
+800, 
+Frame number 772:
+Current Atoms:
+557, 800, 1007, 1418, 1544, 1760, 2045, 2465, 2537, 
+Atoms Entering
+800, 
+Frame number 779:
+Current Atoms:
+557, 800, 1418, 1544, 1760, 2045, 2465, 2537, 
+Atoms Leaving
+1007, 
+Frame number 781:
+Current Atoms:
+557, 800, 1544, 1760, 2045, 2465, 2537, 
+Atoms Leaving
+1418, 
+Frame number 783:
+Current Atoms:
+557, 800, 1007, 1544, 1760, 2045, 2465, 2537, 
+Atoms Entering
+1007, 
+Frame number 792:
+Current Atoms:
+557, 800, 1007, 1544, 1760, 2045, 2465, 2537, 2561, 
+Atoms Entering
+2561, 
+Frame number 794:
+Current Atoms:
+557, 800, 1007, 1544, 2045, 2465, 2537, 2561, 
+Atoms Leaving
+1760, 
+Frame number 796:
+Current Atoms:
+557, 800, 1007, 1544, 2045, 2465, 2474, 2537, 2561, 
+Atoms Entering
+2474, 
+Frame number 803:
+Current Atoms:
+557, 800, 1007, 2045, 2465, 2474, 2537, 2561, 
+Atoms Leaving
+1544, 
+Frame number 804:
+Current Atoms:
+557, 800, 2045, 2465, 2474, 2537, 2561, 
+Atoms Leaving
+1007, 
+Frame number 805:
+Current Atoms:
+557, 800, 1007, 2045, 2465, 2474, 2537, 2561, 
+Atoms Entering
+1007, 
+Frame number 812:
+Current Atoms:
+557, 800, 1007, 1796, 2045, 2465, 2474, 2537, 2561, 
+Atoms Entering
+1796, 
+Frame number 823:
+Current Atoms:
+557, 800, 1007, 1796, 2045, 2465, 2474, 2561, 
+Atoms Leaving
+2537, 
+Frame number 827:
+Current Atoms:
+557, 653, 800, 1007, 1796, 2045, 2465, 2474, 2561, 
+Atoms Entering
+653, 
+Frame number 834:
+Current Atoms:
+557, 800, 1007, 1796, 2045, 2465, 2474, 2561, 
+Atoms Leaving
+653, 
+Frame number 835:
+Current Atoms:
+557, 653, 800, 1007, 1796, 2045, 2465, 2474, 2561, 
+Atoms Entering
+653, 
+Frame number 836:
+Current Atoms:
+557, 800, 1007, 1796, 2045, 2465, 2474, 2561, 
+Atoms Leaving
+653, 
+Frame number 848:
+Current Atoms:
+557, 656, 800, 1007, 1796, 2045, 2465, 2474, 2561, 
+Atoms Entering
+656, 
+Frame number 851:
+Current Atoms:
+557, 656, 800, 1007, 1796, 2465, 2474, 2561, 
+Atoms Leaving
+2045, 
+Frame number 875:
+Current Atoms:
+557, 656, 800, 1007, 1796, 2465, 2474, 2537, 2561, 
+Atoms Entering
+2537, 
+Frame number 878:
+Current Atoms:
+557, 656, 800, 1007, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+2465, 
+Frame number 884:
+Current Atoms:
+557, 656, 800, 1007, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+1619, 
+Frame number 892:
+Current Atoms:
+557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+1007, 
+Frame number 907:
+Current Atoms:
+557, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+656, 
+Frame number 908:
+Current Atoms:
+557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+656, 
+Frame number 909:
+Current Atoms:
+557, 656, 800, 1619, 1796, 2474, 2561, 
+Atoms Leaving
+2537, 
+Frame number 910:
+Current Atoms:
+557, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+656, 
+Atoms Entering
+2537, 
+Frame number 911:
+Current Atoms:
+557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+656, 
+Frame number 912:
+Current Atoms:
+557, 800, 1796, 2474, 2561, 
+Atoms Leaving
+656, 1619, 2537, 
+Frame number 913:
+Current Atoms:
+161, 557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+161, 656, 1619, 2537, 
+Frame number 914:
+Current Atoms:
+161, 557, 656, 800, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+1619, 
+Frame number 916:
+Current Atoms:
+161, 656, 800, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+557, 
+Frame number 918:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+1619, 
+Frame number 919:
+Current Atoms:
+161, 656, 800, 1796, 2537, 2561, 
+Atoms Leaving
+1619, 2474, 
+Frame number 920:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2537, 2561, 
+Atoms Entering
+1619, 
+Frame number 922:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+2474, 
+Frame number 923:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2537, 2561, 
+Atoms Leaving
+2474, 
+Frame number 924:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+2474, 
+Frame number 926:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2561, 
+Atoms Leaving
+2474, 2537, 
+Frame number 927:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2474, 2561, 
+Atoms Entering
+2474, 
+Frame number 928:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2561, 
+Atoms Leaving
+2474, 
+Frame number 929:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2537, 2561, 
+Atoms Entering
+2537, 
+Frame number 930:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+2474, 
+Frame number 931:
+Current Atoms:
+161, 557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+557, 
+Frame number 940:
+Current Atoms:
+557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+161, 
+Frame number 942:
+Current Atoms:
+161, 557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+161, 
+Frame number 946:
+Current Atoms:
+557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+161, 
+Frame number 947:
+Current Atoms:
+161, 557, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+161, 
+Frame number 965:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+557, 
+Frame number 975:
+Current Atoms:
+161, 656, 731, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+731, 
+Frame number 976:
+Current Atoms:
+161, 656, 800, 1619, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+731, 
+Frame number 979:
+Current Atoms:
+161, 656, 800, 1187, 1619, 1796, 2474, 2537, 2561, 
+Atoms Entering
+1187, 
+Frame number 987:
+Current Atoms:
+161, 656, 800, 1187, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+1619, 
+Frame number 993:
+Current Atoms:
+161, 656, 800, 1187, 1688, 1796, 2474, 2537, 2561, 
+Atoms Entering
+1688, 
+Frame number 998:
+Current Atoms:
+161, 656, 800, 1187, 1796, 2474, 2537, 2561, 
+Atoms Leaving
+1688, 
+Residence #0: t = 2.000000e-11(2-12)
+Residence #1: t = 2.000000e-11(2-12)
+Residence #2: t = 2.000000e-11(2-12)
+Residence #3: t = 2.000000e-12(14-15)
+Residence #4: t = 2.000000e-12(16-17)
+Residence #5: t = 3.600000e-11(2-20)
+Residence #6: t = 2.000000e-12(19-20)
+Residence #7: t = 4.000000e-12(21-23)
+Residence #8: t = 2.000000e-12(26-27)
+Residence #9: t = 2.000000e-12(33-34)
+Residence #10: t = 6.000000e-12(33-36)
+Residence #11: t = 7.400000e-11(2-39)
+Residence #12: t = 5.400000e-11(13-40)
+Residence #13: t = 7.800000e-11(2-41)
+Residence #14: t = 1.000000e-11(40-45)
+Residence #15: t = 1.800000e-11(36-45)
+Residence #16: t = 8.800000e-11(2-46)
+Residence #17: t = 9.000000e-11(2-47)
+Residence #18: t = 7.000000e-11(13-48)
+Residence #19: t = 8.000000e-12(44-48)
+Residence #20: t = 1.200000e-11(42-48)
+Residence #21: t = 7.200000e-11(12-48)
+Residence #22: t = 2.000000e-12(48-49)
+Residence #23: t = 2.000000e-12(48-49)
+Residence #24: t = 2.000000e-12(48-49)
+Residence #25: t = 2.000000e-12(49-50)
+Residence #26: t = 2.000000e-12(49-50)
+Residence #27: t = 2.000000e-12(49-50)
+Residence #28: t = 2.000000e-12(49-50)
+Residence #29: t = 2.000000e-12(51-52)
+Residence #30: t = 2.000000e-12(52-53)
+Residence #31: t = 2.000000e-12(53-54)
+Residence #32: t = 1.600000e-11(48-56)
+Residence #33: t = 2.000000e-12(59-60)
+Residence #34: t = 4.000000e-12(59-61)
+Residence #35: t = 4.000000e-12(60-62)
+Residence #36: t = 2.000000e-12(62-63)
+Residence #37: t = 1.400000e-11(61-68)
+Residence #38: t = 3.800000e-11(50-69)
+Residence #39: t = 3.800000e-11(50-69)
+Residence #40: t = 3.800000e-11(50-69)
+Residence #41: t = 3.800000e-11(50-69)
+Residence #42: t = 4.000000e-12(70-72)
+Residence #43: t = 8.000000e-12(69-73)
+Residence #44: t = 2.000000e-12(74-75)
+Residence #45: t = 2.000000e-12(74-75)
+Residence #46: t = 2.000000e-12(75-76)
+Residence #47: t = 2.000000e-12(77-78)
+Residence #48: t = 2.000000e-12(77-78)
+Residence #49: t = 4.000000e-12(76-78)
+Residence #50: t = 2.000000e-12(79-80)
+Residence #51: t = 3.400000e-11(63-80)
+Residence #52: t = 6.000000e-12(77-80)
+Residence #53: t = 2.000000e-12(79-80)
+Residence #54: t = 2.000000e-12(81-82)
+Residence #55: t = 2.800000e-11(69-83)
+Residence #56: t = 2.800000e-11(69-83)
+Residence #57: t = 2.800000e-11(69-83)
+Residence #58: t = 8.000000e-12(79-83)
+Residence #59: t = 4.000000e-12(85-87)
+Residence #60: t = 4.000000e-12(88-90)
+Residence #61: t = 2.000000e-12(89-90)
+Residence #62: t = 1.800000e-11(83-92)
+Residence #63: t = 2.200000e-11(83-94)
+Residence #64: t = 2.000000e-12(96-97)
+Residence #65: t = 8.000000e-12(96-100)
+Residence #66: t = 4.000000e-12(98-100)
+Residence #67: t = 3.600000e-11(83-101)
+Residence #68: t = 1.000000e-11(96-101)
+Residence #69: t = 3.600000e-11(83-101)
+Residence #70: t = 3.600000e-11(83-101)
+Residence #71: t = 1.600000e-11(101-109)
+Residence #72: t = 1.400000e-11(106-113)
+Residence #73: t = 2.600000e-11(102-115)
+Residence #74: t = 2.200000e-11(106-117)
+Residence #75: t = 3.200000e-11(101-117)
+Residence #76: t = 3.200000e-11(101-117)
+Residence #77: t = 3.200000e-11(101-117)
+Residence #78: t = 6.000000e-12(116-119)
+Residence #79: t = 1.000000e-11(114-119)
+Residence #80: t = 4.000000e-12(117-119)
+Residence #81: t = 5.600000e-11(91-119)
+Residence #82: t = 4.000000e-12(118-120)
+Residence #83: t = 2.000000e-12(119-120)
+Residence #84: t = 2.000000e-12(119-120)
+Residence #85: t = 2.000000e-12(119-120)
+Residence #86: t = 4.000000e-12(121-123)
+Residence #87: t = 8.000000e-12(121-125)
+Residence #88: t = 1.000000e-11(120-125)
+Residence #89: t = 1.000000e-11(120-125)
+Residence #90: t = 1.000000e-11(120-125)
+Residence #91: t = 1.000000e-11(120-125)
+Residence #92: t = 2.000000e-12(125-126)
+Residence #93: t = 2.000000e-12(125-126)
+Residence #94: t = 2.000000e-12(125-126)
+Residence #95: t = 6.000000e-12(128-131)
+Residence #96: t = 2.200000e-11(129-140)
+Residence #97: t = 4.400000e-11(129-151)
+Residence #98: t = 2.600000e-11(141-154)
+Residence #99: t = 2.400000e-11(161-173)
+Residence #100: t = 1.180000e-10(126-185)
+Residence #101: t = 1.080000e-10(133-187)
+Residence #102: t = 1.400000e-10(126-196)
+Residence #103: t = 1.200000e-11(197-203)
+Residence #104: t = 1.840000e-10(126-218)
+Residence #105: t = 1.200000e-11(219-225)
+Residence #106: t = 1.160000e-10(178-236)
+Residence #107: t = 4.000000e-12(237-239)
+Residence #108: t = 2.060000e-10(153-256)
+Residence #109: t = 8.000000e-12(263-267)
+Residence #110: t = 1.700000e-10(188-273)
+Residence #111: t = 4.000000e-12(273-275)
+Residence #112: t = 8.400000e-11(249-291)
+Residence #113: t = 1.200000e-11(293-299)
+Residence #114: t = 2.000000e-12(300-301)
+Residence #115: t = 2.000000e-12(303-304)
+Residence #116: t = 1.560000e-10(268-346)
+Residence #117: t = 4.460000e-10(126-349)
+Residence #118: t = 4.680000e-10(132-366)
+Residence #119: t = 3.180000e-10(238-397)
+Residence #120: t = 1.300000e-10(347-412)
+Residence #121: t = 3.200000e-11(408-424)
+Residence #122: t = 2.000000e-12(427-428)
+Residence #123: t = 3.180000e-10(307-466)
+Residence #124: t = 5.660000e-10(189-472)
+Residence #125: t = 1.200000e-10(421-481)
+Residence #126: t = 5.600000e-11(471-499)
+Residence #127: t = 1.200000e-11(501-507)
+Residence #128: t = 6.600000e-11(485-518)
+Residence #129: t = 2.800000e-11(527-541)
+Residence #130: t = 8.000000e-12(558-562)
+Residence #131: t = 4.060000e-10(388-591)
+Residence #132: t = 6.600000e-10(279-609)
+Residence #133: t = 5.080000e-10(363-617)
+Residence #134: t = 8.100000e-10(215-620)
+Residence #135: t = 3.240000e-10(477-639)
+Residence #136: t = 4.060000e-10(443-646)
+Residence #137: t = 1.080000e-09(126-666)
+Residence #138: t = 9.800000e-11(622-671)
+Residence #139: t = 2.000000e-12(681-682)
+Residence #140: t = 2.020000e-10(603-704)
+Residence #141: t = 1.980000e-10(618-717)
+Residence #142: t = 2.000000e-12(721-722)
+Residence #143: t = 4.000000e-12(723-725)
+Residence #144: t = 8.000000e-11(701-741)
+Residence #145: t = 5.220000e-10(510-771)
+Residence #146: t = 2.780000e-10(640-779)
+Residence #147: t = 1.460000e-10(708-781)
+Residence #148: t = 3.660000e-10(611-794)
+Residence #149: t = 3.120000e-10(647-803)
+Residence #150: t = 4.200000e-11(783-804)
+Residence #151: t = 4.960000e-10(575-823)
+Residence #152: t = 1.400000e-11(827-834)
+Residence #153: t = 2.000000e-12(835-836)
+Residence #154: t = 2.500000e-10(726-851)
+Residence #155: t = 4.180000e-10(669-878)
+Residence #156: t = 1.740000e-10(805-892)
+Residence #157: t = 1.180000e-10(848-907)
+Residence #158: t = 6.800000e-11(875-909)
+Residence #159: t = 4.000000e-12(908-910)
+Residence #160: t = 2.000000e-12(911-912)
+Residence #161: t = 5.600000e-11(884-912)
+Residence #162: t = 4.000000e-12(910-912)
+Residence #163: t = 2.000000e-12(913-914)
+Residence #164: t = 3.040000e-10(764-916)
+Residence #165: t = 2.000000e-12(918-919)
+Residence #166: t = 2.460000e-10(796-919)
+Residence #167: t = 2.000000e-12(922-923)
+Residence #168: t = 4.000000e-12(924-926)
+Residence #169: t = 2.600000e-11(913-926)
+Residence #170: t = 2.000000e-12(927-928)
+Residence #171: t = 5.400000e-11(913-940)
+Residence #172: t = 8.000000e-12(942-946)
+Residence #173: t = 6.800000e-11(931-965)
+Residence #174: t = 2.000000e-12(975-976)
+Residence #175: t = 1.340000e-10(920-987)
+Residence #176: t = 1.000000e-11(993-998)
